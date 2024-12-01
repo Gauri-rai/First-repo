@@ -1,2 +1,3 @@
 # First-repo
-This is my first demo repository 
+<i>This is my first demo repository</i>
+Author-<b>gauri rai</b>
